@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Barnali Das<br>🔭 I’m currently working on small minute projects based on JavaScript, HTML5 , CSS<br>🌱 I’m currently learning<br>📫 How to reach me : dasbarnali690@gmail.com<br>👨‍💻 All of my projects are available at repository!<br>
+Hi 👋, I'm Barnali Das<br>🔭 I’m currently working on small minute projects based on JavaScript, HTML5 , CSS<br>🌱 I’m currently learning DSA based on Java, JavaScript<br>📫 How to reach me : dasbarnali690@gmail.com<br>👨‍💻 All of my projects are available at repository!<br>
 
 
 ## 🌐 Socials:
