@@ -24,3 +24,6 @@ Hi 👋, I'm Barnali Das<br>🔭 I’m currently working on small minute project
 [![](https://visitcount.itsvg.in/api?id=barnalixd&icon=7&color=10)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+![](https://leetcard.jacoblin.cool/jacoblincool?theme=unicorn)
+![](https://leetcard.jacoblin.cool/jacoblincool?theme=light,unicorn)
