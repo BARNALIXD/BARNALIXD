@@ -25,5 +25,8 @@ Hi 👋, I'm Barnali Das<br>🔭 I’m currently working on small minute project
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+![](https://leetcard.barnalixd/barnalixd?theme=unicorn)
+![](https://leetcard.barnalixd/barnalixd?theme=light,unicorn)
+
 
 
