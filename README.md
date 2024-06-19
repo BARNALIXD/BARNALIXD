@@ -24,27 +24,6 @@ Hi 👋, I'm Barnali Das<br>🔭 I’m currently working on small minute project
 [![](https://visitcount.itsvg.in/api?id=barnalixd&icon=7&color=10)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-# LeetCode Solutions
-
-Welcome to my LeetCode solutions repository! Here you'll find my solutions to various LeetCode problems, organized by difficulty and topic. This repository is continually updated as I solve more problems.
-
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Repository Structure](#repository-structure)
-- [Solutions by Difficulty](#solutions-by-difficulty)
-  - [Easy](#easy)
-  - [Medium](#medium)
-  - [Hard](#hard)
-- [Solutions by Topic](#solutions-by-topic)
-- [How to Use](#how-to-use)
-- [Contact](#contact)
-
-## Introduction
-
-This repository contains my solutions to problems from [LeetCode](https://leetcode.com/u/barnalixd/). Each solution is written in Python (or your preferred language) and includes the problem statement for reference.
-
-## Repository Structure
 
 
 
